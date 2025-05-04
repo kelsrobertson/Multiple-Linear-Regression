@@ -26,3 +26,9 @@ Developed as part of **Machine Learning and Data Science**, the lab guides throu
 - Numpy
 - Scikit-learn
 - Matplotlib
+
+## Key Concepts Demonstrated
+- Multivariate regression with multiple predictors
+- Feature scaling and normalization
+- Model evaluation using metrics such as R²
+- Real-world application of medical data
